@@ -23,7 +23,8 @@
 - 👯 Looking to collaborate on open-source projects and innovative backend solutions.
 - 📫 How to reach me: omar.7tech@gmail.com
 
-  
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 <h3>💻 My favorite tools and technologies</h3>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
