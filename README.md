@@ -80,7 +80,18 @@
 
 
 ## Competitions: 🥇
-### Algorithms [LeetCode](https://leetcode.com/omar7tech/)
+
+### Algorithms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/omar7tech/)
+
+<p align="center">
+  <a href="https://leetcode.com/omar7tech/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" width="200">
+  </a>
+</p>
+
+- 🏅 **LeetCode**: Solving algorithmic challenges to sharpen problem-solving skills and compete with a global community of developers.
 
 ---
 
