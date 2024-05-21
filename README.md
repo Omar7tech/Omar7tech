@@ -18,17 +18,59 @@
 - 👯 Looking to collaborate on open-source projects and innovative backend solutions.
 - 📫 How to reach me: omar.7tech@gmail.com
 
-## 🔧 Technologies & Tools
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+  
+<h3>💻 My favorite tools and technologies</h3>
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" alt="php-icon" width="65" height="65"><br>
+      PHP</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js-icon" width="65" height="65"><br>
+      JavaScript</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts-icon" width="65" height="65"><br>
+      TypeScript</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java"><br>
+      Java</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash"><br>
+      Bash</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"><br>
+      MySQL</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"><br>
+      GitHub</td>
+      <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git"><br>
+      Git</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"><br>
+      Laravel</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"><br>
+      WordPress</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="Symfony"><br>
+      Symfony</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue"><br>
+      Vue</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt"><br>
+      Nuxt</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"><br>
+      PostgreSQL</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux"><br>
+      Linux</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="vim"><br>
+      Vim</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"><br>
+      Node.js</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"><br>
+      Go</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"><br>
+      Python</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET Core"><br>
+      .NET Core</td>
+    </tr>
+  </table><br>
+  <br>
+</div>
 
 
 ## Competitions: 🥇
