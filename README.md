@@ -14,9 +14,9 @@
 - 🛠️ Proficient in full-stack development, but I specialize and prefer working as a backend developer.
 - 🚀 Expertise in PHP and Laravel, focused on building scalable APIs.
 - 🌐 Passionate about creating efficient and robust backend systems.
-- 🌱 Currently exploring [Technology/Framework] to broaden my skill set.
+- 🌱 Currently exploring Go to broaden my skill set.
 - 👯 Looking to collaborate on open-source projects and innovative backend solutions.
-- 📫 How to reach me: [Your Email] or [Your LinkedIn]
+- 📫 How to reach me: omar.7tech@gmail.com
 
 ## 🔧 Technologies & Tools
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
