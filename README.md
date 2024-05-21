@@ -2,7 +2,11 @@
 
 
 # Hi there 👋, I'm Omar!
-
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+96171387946)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/omar.abifarraj.1?mibextid=ZbWKwL)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/omar.af7)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://shorturl.at/FRLxn)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omar.7tech@gmail.com)
 
 ## About Me
 
@@ -27,14 +31,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 
 
-### Social media: 📡    
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
 ## Competitions: 🥇
 ### Algorithms [LeetCode](https://leetcode.com/omar7tech/)
-
-
 
 ---
 
@@ -59,11 +57,6 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Omar7tech&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 
 
 ## 🔗 How to reach me :mailbox:
