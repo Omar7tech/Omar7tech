@@ -8,7 +8,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://shorturl.at/FRLxn)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omar.7tech@gmail.com)
 
-## About Me
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<p align="center">
+  <a href="#">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Contact%20:%20omar.7tech@gmail.com%20;!%20Nothing%20But%20The%20Best%20!;!%20Full-Stack+Developer%20!;Always%20learning%20new%20things.&center=true&width=500&height=50">
+  </a>
+</p>
 
 - 💻 Backend Developer with 5 years of experience.
 - 🛠️ Proficient in full-stack development, but I specialize and prefer working as a backend developer.
@@ -108,4 +113,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://shorturl.at/FRLxn)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omar.7tech@gmail.com)
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=shahradelahi)
 
