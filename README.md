@@ -1,5 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omar7tech&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Image Description]([https://github.com/Omar7tech/screenshots/blob/main/omar7tech_img.png](https://github.com/Omar7tech/screenshots/blob/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner(2).png
+))
 
 # Hi there 👋, I'm Omar!
 ## 🔗 How to reach me :mailbox:
