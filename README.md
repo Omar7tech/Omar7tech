@@ -86,8 +86,10 @@
       Python</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET Core"><br>
       .NET Core</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt=".NET Core"><br>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"><br>
       React</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nextjs"><br>
+      Nextjs</td>
     </tr>
   </table><br>
   <br>
